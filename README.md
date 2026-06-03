@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qdung030404)](https://github.com/anuraghazra/github-readme-stats)" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/qdung030404/qdung030404/stats-output/stats.svg" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/qdung030404/qdung030404/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
 
