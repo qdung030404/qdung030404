@@ -7,8 +7,9 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=qdung030404" height="150" alt="stats graph"  />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=qdung030404" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.shion.dev/api?username=qdung030404&theme=dark&hide_border=false&include_all_commits=false&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com/?user=qdung030404&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=qdung030404&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" height="150" alt="trophy graph"  />
 </div>
 
 ###
